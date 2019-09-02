@@ -1,0 +1,11 @@
+/* Exo 1 */
+.container-fluid {
+    background-color: purple;
+    border: solid 1px black;
+}
+p {
+    border:solid 1px black;
+    text-align: center;
+    margin: 0;
+
+}
