@@ -1,11 +1,13 @@
 /* Exo 1 */
 .container-fluid {
-    background-color: purple;
+    background-color: #cda4f3;
     border: solid 1px black;
 }
 p {
     border:solid 1px black;
     text-align: center;
     margin: 0;
-
+}
+article {
+    padding: 0 !important
 }
